@@ -26,8 +26,8 @@ var map;
 
 map = new GMaps({
 	el: '#gmap',
-	lat: 34.056772,
-	lng: -118.244174,
+	lat: 38.865444,
+	lng: -77.547871,
 	scrollwheel:false,
 	zoom: 16,
 	zoomControl : true,
