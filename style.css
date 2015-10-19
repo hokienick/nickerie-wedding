@@ -426,7 +426,7 @@ header .row {
 	text-align: center;
 	transition: all .3s ease;
 }
-#bright_groom .container > button {
+#bright_groom .container > a > button {
 	background: #FF6D6D;
 	color: #fff;
 	font-weight: bold;
