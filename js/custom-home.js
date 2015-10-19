@@ -145,7 +145,7 @@ $(document).on('ready', function() {
 /////////////////////////////////////////////////////
 
 // add your wedding time
-var futuredate=new cdtime("countdown-wrap", "April 20, 2015 04:30:00");
+var futuredate=new cdtime("countdown-wrap", "June 4, 2016 04:30:00");
 futuredate.displaycountdown("days", formatresults);
 
 
