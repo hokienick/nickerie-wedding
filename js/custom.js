@@ -24,6 +24,11 @@ $('.side-nav-menu ul > li > a').on('click', function() {
 	return false;
 });
 
+$('a').on('click', function() {
+	$('html, body').animate({scrollTop: $(this.hash).offset().top}, 1000);
+	return false;
+});
+
 
 ///////////////////////////////////////////////
 /////////// 2. SIDENAV TOGGLER ///////////////

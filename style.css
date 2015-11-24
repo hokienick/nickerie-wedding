@@ -234,7 +234,7 @@ button.nav-collapser:hover:before {
 
 header {
 	
-	background: url(images/background-image/header-bg.jpg) center center no-repeat;
+	background: url(images/background-image/countdown-bg.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 965px;
@@ -583,15 +583,11 @@ header .row {
 	text-align: left;
 }
 .single_love_line div.details:first-child {
-	padding-top: 35px;
-	padding-right: 35px;
-	padding-left: 35px;
+	padding: 30px;
 	background: #fff;
 }
 .single_love_line div.details:last-child {
-	padding-top: 35px;
-	padding-left: 35px;
-	padding-right: 35px;
+	padding:30px;
 	background: #fff;
 }
 .single_love_line .image img {
@@ -1453,12 +1449,12 @@ div#gmap:before, div#gmap:after {display:none;}
 
 
 #qoute {
-	background: url(images/background-image/qoute_bg.jpg) center center no-repeat;
+	background: url(images/background-image/quote_bg.png) center center no-repeat;
 	text-align: center;
 }
 #qoute .overlay {
 	background: rgba(0,0,0,.85);
-	padding-top: 135px;
+	padding-top: 250px;
 	padding-bottom: 135px;
 }
 #qoute .overlay p {
