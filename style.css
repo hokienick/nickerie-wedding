@@ -234,7 +234,7 @@ button.nav-collapser:hover:before {
 
 header {
 	
-	background: url(images/background-image/countdown-bg.jpg) center center no-repeat;
+	background: url(images/slider/default.png) center center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 965px;
